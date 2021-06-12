@@ -1,2 +1,2 @@
 # Go
-Small programs built to learn Go
+Small programs built to learn Go.
